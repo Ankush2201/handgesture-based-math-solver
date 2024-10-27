@@ -35,8 +35,8 @@
   1. **Clone the repository:**
  
      ```bash
-     git clone https://github.com/LasithaAmarasinghe/Hand-Gesture-Math-Solver.git
-     cd Hand-Gesture-Math-Solver
+     git clone https://github.com/Ankush2201/handgesture-based-math-solver
+     cd handgesture-based-math-solver
      ```
  
   2. **Create and activate a virtual environment (optional but recommended):**
